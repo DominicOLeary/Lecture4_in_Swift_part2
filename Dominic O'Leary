@@ -1,0 +1,14 @@
+Import IUKit
+
+let greet = greeting
+
+var greeting = "Hello, World"
+
+let firstName = "Dominic"
+
+var greeting = "\(firstName) is my name how are you?"
+
+let shoeSize = "12.0"
+var string = "my shoe size is \(shoeSize)'
+
+if - else - then
